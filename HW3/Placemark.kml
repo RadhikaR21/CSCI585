@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Document>
+<Style id="z1">
+<IconStyle><Icon><href>http://www.google.com/intl/en_us/mapfiles/ms/micons/blue-dot.png</href></Icon></IconStyle>
+</Style>
+<Placemark><name>KappaKappaGamma</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.2831,34.0286</coordinates></Point>
+</Placemark>
+<Placemark><name>2718</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.2839,34.0297</coordinates></Point>
+</Placemark>
+<Placemark><name>PhiDeltaEpsilon</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.2833,34.0292</coordinates></Point>
+</Placemark>
+<Placemark><name>TwinPalm2638</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.2833,34.0303</coordinates></Point>
+</Placemark>
+<Placemark><name>2625</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.2827,34.03027</coordinates></Point>
+</Placemark>
+<Placemark><name>2611</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.2822,34.0308</coordinates></Point>
+</Placemark>
+<Placemark><name>2610</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.2822,34.03027</coordinates></Point>
+</Placemark>
+<Placemark><name>2638</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.2828,34.0294</coordinates></Point>
+</Placemark>
+<Placemark><name>BetaThetaPi</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.2828,34.0294</coordinates></Point>
+</Placemark>
+<Placemark><name>MyApt2707</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.2833,34.0297</coordinates></Point>
+</Placemark>
+</Document></kml>

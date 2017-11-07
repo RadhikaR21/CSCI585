@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Document>
+
+<Style id="z1">
+<IconStyle><Icon><href>http://www.google.com/intl/en_us/mapfiles/ms/micons/blue-dot.png</href></Icon></IconStyle>
+</Style>
+
+<Style id="z2">
+    <LineStyle>
+      <width>2</width>
+    </LineStyle>
+</Style>
+
+<Style id="polyStyle">
+    <PolyStyle>  
+    <color>#a00000ff</color>
+    <outline>0</outline>
+    </PolyStyle>
+  <LineStyle>
+  	<width>20</width>
+  </LineStyle>
+</Style>
+
+<Placemark>
+<styleUrl>#z2</styleUrl>
+<LineString>
+            <coordinates>-118.2833,34.0292 -118.2833,34.0297</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<styleUrl>#z2</styleUrl>
+<LineString>
+            <coordinates>-118.2828,34.0294 -118.2833,34.0297</coordinates>
+</LineString>
+</Placemark>
+
+<Placemark>
+<styleUrl>#z2</styleUrl>
+<LineString>
+            <coordinates>-118.2833,34.0303 -118.2833,34.0297</coordinates>
+</LineString>
+</Placemark>
+
+
+
+<Placemark><name>KappaKappaGamma</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.2831 34.0286</coordinates></Point>
+</Placemark>
+<Placemark><name>2718</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.2839 34.0297</coordinates></Point>
+</Placemark>
+<Placemark><name>PhiDeltaEpsilon</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.2833 34.0292</coordinates></Point>
+</Placemark>
+<Placemark><name>TwinPalm2638</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.2833 34.0303</coordinates></Point>
+</Placemark>
+<Placemark><name>2625</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.2827 34.03027</coordinates></Point>
+</Placemark>
+<Placemark><name>2611</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.2822 34.0308</coordinates></Point>
+</Placemark>
+<Placemark><name>2610</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.2822 34.03027</coordinates></Point>
+</Placemark>
+<Placemark><name>BetaThetaPhi</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.2828 34.0294</coordinates></Point>
+</Placemark>
+<Placemark><name>MyApt_2707</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.2833 34.0297</coordinates></Point>
+</Placemark>
+
+<Placemark>
+<styleUrl>#polyStyle</styleUrl>
+<Polygon>
+	<outerBoundaryIs>
+		<LinearRing>
+			<coordinates>
+				-118.2831,34.0286,10
+				-118.2839,34.0297,10
+				-118.2833,34.0303,10
+				-118.2822,34.0308,10
+				-118.2822,34.03027,10
+				-118.2831,34.0286,10				
+			</coordinates>
+		</LinearRing>
+	</outerBoundaryIs>
+</Polygon>
+</Placemark>
+
+</Document></kml>
